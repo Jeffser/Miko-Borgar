@@ -12,5 +12,6 @@ Miko Borgar, based on the fictional restaurant franchise from the Touhou Comunit
 As software, it was made as a way to manage the restaurant sales, inventory and invoices as if it were real.
 This code doesn't have any kind of license so use it however you want to.
 For questions, my profile has all of my contact information.
+Note for english users: The names of elements are written in spanish, sorry.
 
 Thanks for visiting my github!
