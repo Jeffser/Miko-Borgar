@@ -18,3 +18,7 @@ For questions, my profile has all of my contact information.
 Note for english users: The names of elements are written in spanish, sorry.
 
 Thanks for visiting my github!
+
+
+ESTRUCTURA DE BASE DE DATOS / DATABASE STRUCTURE
+![Picture1](https://user-images.githubusercontent.com/69224322/145095664-e6fbb1e0-d402-413f-a51e-e0c75743bd98.png)
