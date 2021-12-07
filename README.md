@@ -1,4 +1,7 @@
 # Miko-Borgar
+![Miko Borgar Banner](https://user-images.githubusercontent.com/69224322/145095088-55b17c38-24c4-4039-9f50-16799546fe4c.jpg)
+
+
 -ES-
 Miko Borgar, basado en la franquicia de comida rapida ficticia de la comunidad de Touhou.
 Como pieza de software, este esta creado para controlar ventas, inventario y facturas del restaurante como si fuera real.
